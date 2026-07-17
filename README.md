@@ -6,7 +6,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+SQL;DSA+in+Java+%7C+Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+SQL;DSA+in+Java+%7C+Problem+Solver;" alt="Typing SVG" />
 </a>
 
 <br/><br/>
